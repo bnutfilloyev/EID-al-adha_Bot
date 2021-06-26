@@ -5,7 +5,7 @@ from aiogram.types import ContentType, InputFile
 
 import cv2
 
-API_TOKEN = '1703408561:AAGaoZtSGob1_WzIwtSQztzaYF74KkVL2mk'
+API_TOKEN = 'YOUR TOKEN'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
