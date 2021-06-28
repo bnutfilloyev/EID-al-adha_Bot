@@ -19,3 +19,7 @@ Dasturni run qilish
 ```
 python3 main.py
 ```
+
+Created by
+> @Yoshlik_Media
+> Nutfilloyev Bexruz
