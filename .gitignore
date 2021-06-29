@@ -1,2 +1,6 @@
 # Project exclude paths
-/venv/
+env/
+venv/
+.idea/
+.vscode/
+__pycache__/
